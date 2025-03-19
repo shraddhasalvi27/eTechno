@@ -44,7 +44,7 @@ This repository contains the code for a modern and responsive landing page. The 
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/landing-page.git
+   git clone https://github.com/shraddhasalvi27/eTechno.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -71,6 +71,4 @@ If you would like to contribute, feel free to fork this repository and submit a 
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any queries, reach out via [your email] or connect on [LinkedIn/GitHub].
 
